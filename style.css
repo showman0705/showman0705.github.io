@@ -96,6 +96,11 @@ header h1 a{
     padding-top: 100px;
 }
 
+.section a:hover{
+    background-color: gray;
+    border-radius: 5px;
+}
+
 /* 프로젝트 섹션 (#projects) */
 #projects {
     height: 100vh;
